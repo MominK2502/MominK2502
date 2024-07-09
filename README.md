@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Langchain and Flask
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me momink2520@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 MominK2502/MominK2502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
