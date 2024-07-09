@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MominK2502
+- 👋 Hi, I’m Momin Khan, an avid Data Analyst and Data Junkie :)
 - 👀 I’m interested in leveraging LLMs to create simple and innovative applications
 - 🌱 I’m currently learning Langchain and Flask
 - 💞️ I’m looking to collaborate on learning
